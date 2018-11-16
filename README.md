@@ -1,1 +1,1 @@
-https://mohansaikolluru.github.io/profile.github.io/profile1.html
+https://github.com/mohansaikolluru/profile.github.io/blob/master/profile1.html
