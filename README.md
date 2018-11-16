@@ -1,1 +1,2 @@
-https://github.com/mohansaikolluru/profile.github.io/blob/master/profile1.html
+## My profile
+https://mohansaikolluru.github.io/profile.github.io/
